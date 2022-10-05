@@ -1,3 +1,3 @@
 # LinceTech-Lista02
 
-Lista 3 de atividades do programa LinceTech Academy.
+Lista 2 de atividades do programa LinceTech Academy.
